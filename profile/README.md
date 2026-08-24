@@ -1,6 +1,16 @@
-﻿# Extra Special Studio
+# Extra Special Studio
 
 Minecraft mods. Public source for shipped products.
+
+## ES stack
+
+- [ESL](https://github.com/ESS-Extra-Special-Studio/ESL)
+- [ESC](https://github.com/ESS-Extra-Special-Studio/ESC)
+- [ESH](https://github.com/ESS-Extra-Special-Studio/ESH)
+
+## CTL
+
+- [CTL](https://github.com/ESS-Extra-Special-Studio/CTL) — Calm The Leaks
 
 ## Dead Air
 
@@ -24,10 +34,9 @@ Minecraft mods. Public source for shipped products.
 
 RadioTowers is third-party and is not in this org.
 
-## Hub stack
+## Also in the hub
 
-- [ESL](https://github.com/ESS-Extra-Special-Studio/ESL) · [ESC](https://github.com/ESS-Extra-Special-Studio/ESC) · [ESH](https://github.com/ESS-Extra-Special-Studio/ESH)
-- [WhatLIB](https://github.com/ESS-Extra-Special-Studio/WhatLIB) · [CTL](https://github.com/ESS-Extra-Special-Studio/CTL)
+- [WhatLIB](https://github.com/ESS-Extra-Special-Studio/WhatLIB)
 - [PantheonAPI](https://github.com/ESS-Extra-Special-Studio/PantheonAPI) · [Hermes](https://github.com/ESS-Extra-Special-Studio/Hermes) · [Aegis Accord](https://github.com/ESS-Extra-Special-Studio/Aegis-Accord)
 
 ## Other
