@@ -50,3 +50,5 @@ RadioTowers is third-party and is not in this org.
 ## RuneScape: Dragonwilds
 
 Mods are listed here as each one is made.
+
+- [Skills of Ashenfall: Historian](https://github.com/ESS-Extra-Special-Studio/Skills-of-Ashenfall-Historian)
